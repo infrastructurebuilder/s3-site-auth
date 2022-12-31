@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "serverless-plugin-cloudfront-lambda-edge": "2.1.0",
-    "serverless-plugin-optimize": "^3.1.1-rc.1"
+    "serverless-plugin-optimize": "^4.2.1-rc.1"
   }
 }
